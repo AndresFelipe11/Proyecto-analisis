@@ -132,3 +132,5 @@ dmypy.json
 
 __pyphi_cache__/
 .DS_Store
+
+results_*.txt
